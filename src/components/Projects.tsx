@@ -23,7 +23,7 @@ export default function Projects() {
                     </a>
                     <a href="https://jogo-da-velha-nine-delta.vercel.app/bot.html" className="relative block border border-[#F1E194] rounded-[10px] h-[35vh] w-[40vw] overflow-hidden group cursor-pointer">
                         <img src={jogoImg} alt="Jogo da velha" className="absolute inset-0 w-full h-full object-cover blur-[3px]" />
-                        <h2 className="absolute inset-0 flex items-center justify-center text-[#F1E194] text-2xl font-bold z-10 transition-transform duration-300 group-hover:-translate-y-2" style={{WebkitTextStroke: "1px #F1E194"}}>Jogo da velha</h2>
+                        <h2 className="absolute inset-0 flex items-center justify-center text-[#F1E194] text-2xl font-bold z-10 transition-transform duration-300 group-hover:-translate-y-2" style={{WebkitTextStroke: "1px #F1E194"}}>Tik-tac-toe</h2>
                     </a>
                 </div>
             </div>
